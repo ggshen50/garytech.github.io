@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
+title:  Gary Try
 subtitle: 分享技术，品味人生
 name: 纯洁的微笑 
 email: ityouknow@126.com
@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: ggshen50/garytech.github.io
 github_url: https://github.com/ggshen50
 url: http://www.ggshen.top
-enforce_ssl: github.com
+enforce_ssl: ggshen.com
 
 ## Gem
 plugins:
