@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: ggshen50/garytech.github.io
 github_url: https://github.com/ggshen50
 url: http://www.ggshen.top
-enforce_ssl: ggshen.com
+enforce_ssl: ggshen.top
 
 ## Gem
 plugins:
